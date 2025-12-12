@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Holographic Identity Passport (HIP)",
+  "description": "A privacy-first, 2030-ready digital identity prototype using simulated biometric hashing and blockchain verification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
